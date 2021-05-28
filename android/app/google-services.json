@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "817029995409",
+    "project_id": "bookrental106-b5a05",
+    "storage_bucket": "bookrental106-b5a05.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:817029995409:android:6a264c72b1ad49291c9830",
+        "android_client_info": {
+          "package_name": "mn.edu.must.book_rent_5_3"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "817029995409-6douehgopphe0mfjsct5e5keoiqieevu.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "mn.edu.must.book_rent_5_3",
+            "certificate_hash": "1167580b428d93237027bf821923954b721d1b6d"
+          }
+        },
+        {
+          "client_id": "817029995409-q0pel52tmgca5ju0pent563nkh5dciib.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBDjdCC8ix85j9jlKonl1SpdUEDXYJrc9M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "817029995409-q0pel52tmgca5ju0pent563nkh5dciib.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
